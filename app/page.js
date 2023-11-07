@@ -2,9 +2,15 @@
 
 const page = () => {
   return (
+    <>
+    
     <div>
       Home
     </div>
+
+    <p> comentariu </p>
+    </>
+    
   )
 }
 
