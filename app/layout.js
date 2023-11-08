@@ -10,15 +10,9 @@ const RootLayout = ({children}) => {
   return (
     <html lang="en">
       <body>
-        <div className='main'>
-          <div className='dark-blue' />
-        </div>
-
           <main>
-            
              {children}
           </main>
-
       </body>
     </html>
   )

@@ -1,15 +1,15 @@
+import SingUp from "@/components/SingUp"
+
 
 
 const page = () => {
   return (
-    <>
-    
-    <div>
-      Home
-    </div>
+   
+   <div>
 
-    <p> comentariu </p>
-    </>
+    <SingUp />
+    
+   </div>
     
   )
 }
