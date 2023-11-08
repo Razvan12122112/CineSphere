@@ -8,7 +8,7 @@ const page = () => {
    <div>
 
     <SingUp />
-    
+    <p>Second branch</p>
    </div>
     
   )
